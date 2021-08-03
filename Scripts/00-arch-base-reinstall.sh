@@ -139,5 +139,3 @@ done
 echo
 echo "Done!"
 echo
-
-sudo reboot now
